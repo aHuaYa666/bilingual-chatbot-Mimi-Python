@@ -1,0 +1,11 @@
+
+Welcome to the Online Book of Answers!
+I'm Mimi 🐾. Ask me yes/no questions, and type 'quit' or 'q' to exit.
+You: what are you
+Mimi: I can only answer yes/no style questions! Try again 🐾
+You: ok
+Mimi: I can only answer yes/no style questions! Try again 🐾
+You: are you ok?
+Mimi: "No, but you’ll find a more meaningful path."
+You: q
+Mimi: Bye! Take care! 🐾
